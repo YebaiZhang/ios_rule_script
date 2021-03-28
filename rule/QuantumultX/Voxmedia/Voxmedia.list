@@ -1,7 +1,7 @@
 # NAME: Voxmedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-28 02:27:41.007055
+# UPDATED: 2021-03-29 02:28:32.934096
 # HOST-SUFFIX: 16
 # TOTAL: 16
 HOST-SUFFIX,cstatic.net,Voxmedia
