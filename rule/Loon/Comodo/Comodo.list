@@ -1,7 +1,7 @@
 # NAME: Comodo
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-29 02:28:34.273688
+# UPDATED: 2021-03-30 02:23:01.033749
 # DOMAIN-SUFFIX: 5
 # TOTAL: 5
 DOMAIN-SUFFIX,comodo.com

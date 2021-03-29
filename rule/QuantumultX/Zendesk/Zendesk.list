@@ -1,7 +1,7 @@
 # NAME: Zendesk
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-29 02:28:33.123573
+# UPDATED: 2021-03-30 02:23:00.039756
 # HOST-SUFFIX: 6
 # TOTAL: 6
 HOST-SUFFIX,outbound.io,Zendesk

@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-29 02:28:37.017271
+# UPDATED: 2021-03-30 02:23:03.368656
 # DOMAIN-KEYWORD: 59
-# DOMAIN-SUFFIX: 69427
-# DOMAIN: 14359
+# DOMAIN-SUFFIX: 69467
+# DOMAIN: 14418
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 84091
+# TOTAL: 84190
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -23,6 +23,7 @@ payload:
   - DOMAIN,00author.com
   - DOMAIN,00webcams.com
   - DOMAIN,019201.webcindario.com
+  - DOMAIN,024xuyisheng.com
   - DOMAIN,03383bd.netsolhost.com
   - DOMAIN,042707d90914.agrigid.com
   - DOMAIN,0440082.wcomhost.com
@@ -76,6 +77,7 @@ payload:
   - DOMAIN,138shenbosbo.com
   - DOMAIN,13903825045.com
   - DOMAIN,13932685557.cn
+  - DOMAIN,1407031110.bzhualin.com
   - DOMAIN,140proof.com
   - DOMAIN,14119276be0852.com
   - DOMAIN,1464124271.rsc.cdn77.org
@@ -608,6 +610,7 @@ payload:
   - DOMAIN,adgtracker.com
   - DOMAIN,adguru.guruji.com
   - DOMAIN,adiakgata.000webhostapp.com
+  - DOMAIN,adidasindonesia.com
   - DOMAIN,adimg.mp3.com
   - DOMAIN,adimg.ngfiles.com
   - DOMAIN,adjourne.com
@@ -832,6 +835,7 @@ payload:
   - DOMAIN,ads.proboards.com
   - DOMAIN,ads.propertycasualty360.com
   - DOMAIN,ads.publicdisgrace.com
+  - DOMAIN,ads.quasaraffiliates.com
   - DOMAIN,ads.racunalniske-novice.com
   - DOMAIN,ads.radiatemedia.com
   - DOMAIN,ads.reddit.com
@@ -1124,6 +1128,7 @@ payload:
   - DOMAIN,ajokeaday.com
   - DOMAIN,ak.imgfarm.com
   - DOMAIN,ak.staticimgfarm.com
+  - DOMAIN,ak.zxpbj10.com
   - DOMAIN,aka-root.com
   - DOMAIN,akamedia.000webhostapp.com
   - DOMAIN,akariyer.com
@@ -1422,6 +1427,7 @@ payload:
   - DOMAIN,ankursociety.org
   - DOMAIN,annamidly.com
   - DOMAIN,anncowan.000webhostapp.com
+  - DOMAIN,annieimafidon.com
   - DOMAIN,annstowncar.com
   - DOMAIN,annualconsumersurvey.com
   - DOMAIN,anolysis.privacy.cliqz.com
@@ -1998,6 +2004,7 @@ payload:
   - DOMAIN,battaerd.com
   - DOMAIN,battle-mix.com
   - DOMAIN,battlefield4.sharezips.net
+  - DOMAIN,bayareagoferservice.com
   - DOMAIN,bazlogistics.com
   - DOMAIN,bb-bouncy.com
   - DOMAIN,bb.youzu.com
@@ -2085,6 +2092,7 @@ payload:
   - DOMAIN,bellsouth.touchcommerce.com
   - DOMAIN,belogss.herokuapp.com
   - DOMAIN,below0group.com
+  - DOMAIN,belreferatov.net
   - DOMAIN,bencarsrl.com
   - DOMAIN,bendelsa.com
   - DOMAIN,bengchivv.cn
@@ -2170,6 +2178,7 @@ payload:
   - DOMAIN,beyondthebeatentrack.com
   - DOMAIN,bezprostatita.com
   - DOMAIN,bezproudoff.cz
+  - DOMAIN,bf3aimbot.filesforgames.com
   - DOMAIN,bf4chinarising.dlcodes.com
   - DOMAIN,bf4codes.dlcodes.com
   - DOMAIN,bf4secondassault.dlcodes.com
@@ -2249,6 +2258,7 @@ payload:
   - DOMAIN,blackhatworth.com
   - DOMAIN,blackmambajuice.com
   - DOMAIN,blacknite.eu
+  - DOMAIN,blackops2.filesforgames.com
   - DOMAIN,blackops2.newzgames.com
   - DOMAIN,blackops2hacked.com
   - DOMAIN,blacksheepatlanta.com
@@ -2593,6 +2603,7 @@ payload:
   - DOMAIN,bypassonlinesurveys.com
   - DOMAIN,bypassremovesurveys.com
   - DOMAIN,bytedance.com
+  - DOMAIN,bzhualin.com
   - DOMAIN,bzvimexwdle.com
   - DOMAIN,c-4fambt.com
   - DOMAIN,c-motors.com
@@ -2904,6 +2915,7 @@ payload:
   - DOMAIN,change-bank.org
   - DOMAIN,change2nextlevel.com
   - DOMAIN,changekonsultan.com
+  - DOMAIN,channel1vids.com
   - DOMAIN,chansteqindia.com
   - DOMAIN,chaopeng1.cn
   - DOMAIN,chaorenxin.com
@@ -2911,6 +2923,7 @@ payload:
   - DOMAIN,characterfarm.com
   - DOMAIN,charbroil.inq.com
   - DOMAIN,charbroil.touchcommerce.com
+  - DOMAIN,charcoaltechnology.com
   - DOMAIN,charity-bike-rides.net
   - DOMAIN,charleneamankwah.com
   - DOMAIN,chart.advinion.com
@@ -2955,6 +2968,7 @@ payload:
   - DOMAIN,cheat4me.com
   - DOMAIN,cheatbee.com
   - DOMAIN,cheatcenter24.com
+  - DOMAIN,cheatengineer.com
   - DOMAIN,cheatfile.com
   - DOMAIN,cheatfiles.org
   - DOMAIN,cheatgame4u.com
@@ -3507,6 +3521,7 @@ payload:
   - DOMAIN,cpweb.kosungames.com
   - DOMAIN,cq118114.net
   - DOMAIN,crackage.net
+  - DOMAIN,crackedscripts.com
   - DOMAIN,crackelite.com
   - DOMAIN,cracker-nation.com
   - DOMAIN,crackernapper.com
@@ -4034,6 +4049,7 @@ payload:
   - DOMAIN,dkdwv3lcby5zi.cloudfront.net
   - DOMAIN,dkj2m377b0yzw.cloudfront.net
   - DOMAIN,dkmdklhu.com
+  - DOMAIN,dl.bzgthg.com
   - DOMAIN,dl.cr173.com
   - DOMAIN,dl.faedmr.com
   - DOMAIN,dl.gameplaylabs.com
@@ -4121,6 +4137,7 @@ payload:
   - DOMAIN,dorianusa.com
   - DOMAIN,doroncreations.com
   - DOMAIN,dorothyn.com
+  - DOMAIN,dosanrnlq.com
   - DOMAIN,dostavka-v-krym.com
   - DOMAIN,dot-a.op-mobile.opera.com
   - DOMAIN,dothansurgerycenter.com
@@ -4185,6 +4202,7 @@ payload:
   - DOMAIN,downloadedsoftware.com
   - DOMAIN,downloadfreelab.com
   - DOMAIN,downloadfullcracks.com
+  - DOMAIN,downloadhack.net
   - DOMAIN,downloadhackcheat.com
   - DOMAIN,downloadhacktool.com
   - DOMAIN,downloadity.net
@@ -5015,6 +5033,7 @@ payload:
   - DOMAIN,filesdatabase.net
   - DOMAIN,filesdock.com
   - DOMAIN,filesenzu.com
+  - DOMAIN,filesforgames.com
   - DOMAIN,filesforpc.com
   - DOMAIN,fileshare.touchcommerce.com
   - DOMAIN,filesighting.com
@@ -5207,6 +5226,7 @@ payload:
   - DOMAIN,fortunefiles.org
   - DOMAIN,forum-boost.site50.net
   - DOMAIN,forum-cs.net76.net
+  - DOMAIN,forum.d99q.cn
   - DOMAIN,forum.youzu.com
   - DOMAIN,forumiklan.com
   - DOMAIN,fossilsgs.com
@@ -5491,6 +5511,7 @@ payload:
   - DOMAIN,fv2cheats.com
   - DOMAIN,fviwwkvvxs.com
   - DOMAIN,fxwpmfdapcalu.com
+  - DOMAIN,fxztjnsb.com
   - DOMAIN,fzprivate.000webhostapp.com
   - DOMAIN,g-oogl-e.com
   - DOMAIN,g.chaishiguan.com
@@ -5572,6 +5593,7 @@ payload:
   - DOMAIN,gamersgiveaways.com
   - DOMAIN,gamerspro.net
   - DOMAIN,gamerzhack.com
+  - DOMAIN,games-extensions24.com
   - DOMAIN,games-forfree.net
   - DOMAIN,games-hacked.com
   - DOMAIN,games-hacks.com
@@ -5588,6 +5610,7 @@ payload:
   - DOMAIN,gamesfixer.com
   - DOMAIN,gamesfly.com
   - DOMAIN,gamesfusions.com
+  - DOMAIN,gameshackeasy.com
   - DOMAIN,gameshackingtools.com
   - DOMAIN,gameshackmania.com
   - DOMAIN,gameshacks.net
@@ -5616,6 +5639,7 @@ payload:
   - DOMAIN,gamexcode.com
   - DOMAIN,gamextensions.net
   - DOMAIN,gamezdownloadfree.com
+  - DOMAIN,gamezfree.net
   - DOMAIN,gamezhack.com
   - DOMAIN,gamezlinks.net
   - DOMAIN,gamezmelt.com
@@ -5659,6 +5683,7 @@ payload:
   - DOMAIN,gcmapi.wshareit.com
   - DOMAIN,gd.xxtvphoto.com
   - DOMAIN,gddingtian.com.cn
+  - DOMAIN,gdhlysucwzyzu.com
   - DOMAIN,gdhongyu17.cn
   - DOMAIN,gdyn.nba.com
   - DOMAIN,gdyn.veryfunnyads.com
@@ -5884,6 +5909,7 @@ payload:
   - DOMAIN,goldbye.vicp.net
   - DOMAIN,golden-hacks.com
   - DOMAIN,goldendeerinteriors.com
+  - DOMAIN,goldendownloads247.com
   - DOMAIN,goldenliquor.com
   - DOMAIN,goldenuploading.com
   - DOMAIN,goldgamehacks.com
@@ -6271,6 +6297,7 @@ payload:
   - DOMAIN,haletone.com
   - DOMAIN,halitkul.com
   - DOMAIN,hallmarkteam.com
+  - DOMAIN,halo4.filesforgames.com
   - DOMAIN,halo77.com
   - DOMAIN,haltgame.com
   - DOMAIN,handbagcom.skimlinks.com
@@ -6313,6 +6340,7 @@ payload:
   - DOMAIN,hawaiisurf.com
   - DOMAIN,hay-day-hack.com
   - DOMAIN,hayday.cooldownloadz.com
+  - DOMAIN,hayday.filesforgames.com
   - DOMAIN,hayday.newzgames.com
   - DOMAIN,haydayhack.com
   - DOMAIN,haydayhack.leakbay.net
@@ -6557,6 +6585,7 @@ payload:
   - DOMAIN,huge-gay-cock.com
   - DOMAIN,hugebestbuy.cn
   - DOMAIN,hugefileshare.com
+  - DOMAIN,hugetopnonfat.cn
   - DOMAIN,hugosconsultores.com
   - DOMAIN,huikingyeung.com
   - DOMAIN,huitong-trading.com
@@ -6632,6 +6661,7 @@ payload:
   - DOMAIN,icipourtoi.com
   - DOMAIN,icityfind.com
   - DOMAIN,icloud-logins.com
+  - DOMAIN,icloud-status.com
   - DOMAIN,icloud-support.net
   - DOMAIN,icloud.account-id.com
   - DOMAIN,icloud21.com
@@ -6713,6 +6743,7 @@ payload:
   - DOMAIN,ijinshan.com
   - DOMAIN,ikanursila.com
   - DOMAIN,ikealcmavhpk.com
+  - DOMAIN,iklan-sukses.com
   - DOMAIN,iklaninter.net
   - DOMAIN,iklantanpadaftar.com
   - DOMAIN,ikratorna.com
@@ -6999,6 +7030,7 @@ payload:
   - DOMAIN,iphonegames3g.com
   - DOMAIN,iphonegameshack.com
   - DOMAIN,iphonehackgames.com
+  - DOMAIN,ipintu.com.cn
   - DOMAIN,ipl.hk
   - DOMAIN,iplogger.com
   - DOMAIN,iplua.o.xoxknct.com
@@ -7196,6 +7228,8 @@ payload:
   - DOMAIN,jin.7377727.com
   - DOMAIN,jinyidianzi.com
   - DOMAIN,jiongshiwu.com
+  - DOMAIN,jishuitong.com
+  - DOMAIN,jiujiuguiyi.she456.com
   - DOMAIN,jjscakery.com
   - DOMAIN,jkindscorpn.com
   - DOMAIN,jkjcoyeeglunz.com
@@ -7561,6 +7595,7 @@ payload:
   - DOMAIN,ktteklov.com
   - DOMAIN,kuaiyan.com.cn
   - DOMAIN,kuaiyinren.cn
+  - DOMAIN,kuangyelaw.com
   - DOMAIN,kuangyuantrade.com
   - DOMAIN,kuatbai.000webhostapp.com
   - DOMAIN,kuehncom.com
@@ -7779,6 +7814,7 @@ payload:
   - DOMAIN,libergaming.com
   - DOMAIN,libertybilisim.com
   - DOMAIN,library.cowley.edu
+  - DOMAIN,libreape.com
   - DOMAIN,libros-gratis.org
   - DOMAIN,libtechresource.com
   - DOMAIN,license.bluesoleil.com
@@ -8033,6 +8069,7 @@ payload:
   - DOMAIN,lyndabarry.net
   - DOMAIN,lyoness.com
   - DOMAIN,lyonsmechanical.com
+  - DOMAIN,lyricadcr.com
   - DOMAIN,lyricalks.com
   - DOMAIN,lyricalsk.com
   - DOMAIN,lzpgstae.com
@@ -8159,6 +8196,7 @@ payload:
   - DOMAIN,marileephotoblog.com
   - DOMAIN,marillierproperties.com
   - DOMAIN,marine-ind.com
+  - DOMAIN,marinesurveyorindonesia.com
   - DOMAIN,marinetraffic.com
   - DOMAIN,marinoderosas.com
   - DOMAIN,marinoroyal.com
@@ -8767,6 +8805,8 @@ payload:
   - DOMAIN,muziczion.com
   - DOMAIN,mvconf.cloud.360safe.com
   - DOMAIN,mw-advocates.com
+  - DOMAIN,mw2aimbot.filesforgames.com
+  - DOMAIN,mw3aimbot.filesforgames.com
   - DOMAIN,mwfiles.net
   - DOMAIN,mx.adserver.yahoo.com
   - DOMAIN,mx1.smi2.net
@@ -9014,6 +9054,7 @@ payload:
   - DOMAIN,netexcelsys.com
   - DOMAIN,netflix-membership.com
   - DOMAIN,netflixaccount.org
+  - DOMAIN,netflixaccounts.com
   - DOMAIN,netflixaccounts.leakbay.net
   - DOMAIN,netflixgiftcode.com
   - DOMAIN,netflixhack.validcheats.com
@@ -9078,6 +9119,7 @@ payload:
   - DOMAIN,newsrssexport.smi2.net
   - DOMAIN,newtabtv.com
   - DOMAIN,newtopsites.com
+  - DOMAIN,newware11.024xuyisheng.com
   - DOMAIN,newwhatsapp.net
   - DOMAIN,newworldhacks.com
   - DOMAIN,nexcontech.com
@@ -10147,6 +10189,7 @@ payload:
   - DOMAIN,ps4emulator.org
   - DOMAIN,ps4jailbreakk.com
   - DOMAIN,pscdn1.lbesec.com
+  - DOMAIN,psebsifil.com
   - DOMAIN,psi.lbesecapi.com
   - DOMAIN,psn-code-generator.com
   - DOMAIN,psn.cardcodes.net
@@ -10256,6 +10299,7 @@ payload:
   - DOMAIN,qikdownloads.com
   - DOMAIN,qiluceo001.cn
   - DOMAIN,qinchengwh.com
+  - DOMAIN,qingdian12999.cn
   - DOMAIN,qjttowndvet.com
   - DOMAIN,qmginteractive.com
   - DOMAIN,qna.magnetic.com
@@ -10350,6 +10394,7 @@ payload:
   - DOMAIN,ranks.boardtracker.com
   - DOMAIN,ranksonic.net
   - DOMAIN,ranksonic.org
+  - DOMAIN,raovat4u.com
   - DOMAIN,rapidgameshacks.com
   - DOMAIN,rapidoinfotech.com
   - DOMAIN,raquelalves.com
@@ -10494,6 +10539,7 @@ payload:
   - DOMAIN,reliablefiles.com
   - DOMAIN,reliablehacks.com
   - DOMAIN,reliableshredding.com
+  - DOMAIN,relish.com.cn
   - DOMAIN,reloadedhacks.com
   - DOMAIN,remit.000webhostapp.com
   - DOMAIN,remont-kvartirspb.com
@@ -10616,6 +10662,7 @@ payload:
   - DOMAIN,roadmap.unbounce.com
   - DOMAIN,roadrunnerhomebuyers.com
   - DOMAIN,roadtrip.unbounce.com
+  - DOMAIN,roamtify.com
   - DOMAIN,roaneink.com
   - DOMAIN,roaringcash.com
   - DOMAIN,robdeprop.com
@@ -10867,6 +10914,7 @@ payload:
   - DOMAIN,sc.liveclicker.net
   - DOMAIN,scanmyphones.com
   - DOMAIN,scansafe.net
+  - DOMAIN,scanspyware.net
   - DOMAIN,scantanzania.com
   - DOMAIN,scars-acne.com
   - DOMAIN,scarysquids.com
@@ -11326,6 +11374,7 @@ payload:
   - DOMAIN,simplycommoncents.com
   - DOMAIN,simplycrack.com
   - DOMAIN,simprove.com
+  - DOMAIN,simpsons.filesforgames.com
   - DOMAIN,simpsons.newzgames.com
   - DOMAIN,sinefight-skinesia.com
   - DOMAIN,sinettrk.com
@@ -11395,6 +11444,7 @@ payload:
   - DOMAIN,skinsregal.com
   - DOMAIN,skinstrue.com
   - DOMAIN,skinswhite.com
+  - DOMAIN,skinxswap.com
   - DOMAIN,skippyfile.com
   - DOMAIN,sklaluminium.com
   - DOMAIN,sklep-colway.com
@@ -11652,6 +11702,7 @@ payload:
   - DOMAIN,sprintnss.inq.com
   - DOMAIN,sprintnss.touchcommerce.com
   - DOMAIN,spunkyhealthylife.com
+  - DOMAIN,spunkyvids.com
   - DOMAIN,spyarsenal.com
   - DOMAIN,spyglassresources.com
   - DOMAIN,spywarebegone.com
@@ -11789,6 +11840,7 @@ payload:
   - DOMAIN,static.update.augeapps.com
   - DOMAIN,static.user-grey.com
   - DOMAIN,static.v5.skyrock.net
+  - DOMAIN,static.whoopalook.com
   - DOMAIN,static.youzu.com
   - DOMAIN,static1.smi2.net
   - DOMAIN,static2.smi2.net
@@ -12181,6 +12233,7 @@ payload:
   - DOMAIN,taximtravel.com
   - DOMAIN,tazatarin.com
   - DOMAIN,tbaludhiana.com
+  - DOMAIN,tbhomeinspection.com
   - DOMAIN,tbk-app.com
   - DOMAIN,tbs.imtt.qq.com
   - DOMAIN,tc-imp.inq.com
@@ -12640,6 +12693,7 @@ payload:
   - DOMAIN,track.moreniche.com
   - DOMAIN,track.paytm.com
   - DOMAIN,track.prezna.com
+  - DOMAIN,track.prizeglobal.net
   - DOMAIN,track.realitykings.com
   - DOMAIN,track.rqqft.com
   - DOMAIN,track.scrillaspace.com
@@ -13928,6 +13982,7 @@ payload:
   - DOMAIN,www6.counter.bloke.com
   - DOMAIN,www63.superembed.com
   - DOMAIN,www7.counter.bloke.com
+  - DOMAIN,www74.rtkgvp.com
   - DOMAIN,www7b.j8inn1zektoe.com
   - DOMAIN,www8.counter.bloke.com
   - DOMAIN,www9.331tt.com
@@ -14022,6 +14077,7 @@ payload:
   - DOMAIN,xinmeiren.net
   - DOMAIN,xinyitaoci.com
   - DOMAIN,xiugaiba.com
+  - DOMAIN,xjsqhlfscjxo.com
   - DOMAIN,xlmis.com
   - DOMAIN,xlog.byteoversea.com
   - DOMAIN,xmarkscom.skimlinks.com
@@ -14095,6 +14151,7 @@ payload:
   - DOMAIN,xwbearing.com
   - DOMAIN,xwesxrxyopqyc.com
   - DOMAIN,xwrrygvgt.com
+  - DOMAIN,xxex.xxvxa.com
   - DOMAIN,xxx7893.com
   - DOMAIN,xxxlnk.com
   - DOMAIN,xxxreactor.com
@@ -14206,6 +14263,8 @@ payload:
   - DOMAIN,yourps34free.com
   - DOMAIN,yourstats.net
   - DOMAIN,yourtrustedhacks.com
+  - DOMAIN,yourwiiu4free.com
+  - DOMAIN,youselfini.com
   - DOMAIN,yousendit.inq.com
   - DOMAIN,yousendit.touchcommerce.com
   - DOMAIN,youthfire.com
@@ -15610,6 +15669,7 @@ payload:
   - DOMAIN-SUFFIX,3dstats.com
   - DOMAIN-SUFFIX,3dwwwgame.com
   - DOMAIN-SUFFIX,3e53df6c390.com
+  - DOMAIN-SUFFIX,3e787c93af8de.com
   - DOMAIN-SUFFIX,3edc.cn
   - DOMAIN-SUFFIX,3enm.com
   - DOMAIN-SUFFIX,3f32172d509aeb0.com
@@ -15680,6 +15740,7 @@ payload:
   - DOMAIN-SUFFIX,4006825178.com
   - DOMAIN-SUFFIX,4008813318.com.cn
   - DOMAIN-SUFFIX,4009997658.com
+  - DOMAIN-SUFFIX,40253b3e67b8.com
   - DOMAIN-SUFFIX,402v.com
   - DOMAIN-SUFFIX,404.safedog.cn
   - DOMAIN-SUFFIX,404tracker.com
@@ -15743,6 +15804,7 @@ payload:
   - DOMAIN-SUFFIX,467.red
   - DOMAIN-SUFFIX,468.vologdainfo.ru
   - DOMAIN-SUFFIX,4690y10pvpq8.com
+  - DOMAIN-SUFFIX,46c404ccde27.com
   - DOMAIN-SUFFIX,46cq.cn
   - DOMAIN-SUFFIX,46sg.com
   - DOMAIN-SUFFIX,4702fb341ddf276d.com
@@ -15935,6 +15997,7 @@ payload:
   - DOMAIN-SUFFIX,52896368.com
   - DOMAIN-SUFFIX,528b8.cn
   - DOMAIN-SUFFIX,5293.com
+  - DOMAIN-SUFFIX,529e573b99.com
   - DOMAIN-SUFFIX,52aan.cn
   - DOMAIN-SUFFIX,52ddc254575a.com
   - DOMAIN-SUFFIX,52homie.cn
@@ -16023,6 +16086,7 @@ payload:
   - DOMAIN-SUFFIX,58ar.com
   - DOMAIN-SUFFIX,58b14921719ec.com
   - DOMAIN-SUFFIX,58b291f917728a2.com
+  - DOMAIN-SUFFIX,58c30e7b29e.com
   - DOMAIN-SUFFIX,58f7c1ff30eb.com
   - DOMAIN-SUFFIX,58isg.cn
   - DOMAIN-SUFFIX,58lm.vip
@@ -16367,6 +16431,7 @@ payload:
   - DOMAIN-SUFFIX,72b8869dfc34690.com
   - DOMAIN-SUFFIX,72zh.cn
   - DOMAIN-SUFFIX,733xs.top
+  - DOMAIN-SUFFIX,734137.xyz
   - DOMAIN-SUFFIX,73508.com
   - DOMAIN-SUFFIX,739c49a8c68917.com
   - DOMAIN-SUFFIX,73c6c063b238097.com
@@ -17488,6 +17553,7 @@ payload:
   - DOMAIN-SUFFIX,a907907.com
   - DOMAIN-SUFFIX,a911a1ed6c0.com
   - DOMAIN-SUFFIX,a9377j.com
+  - DOMAIN-SUFFIX,a94bcec8bb.com
   - DOMAIN-SUFFIX,a98spolicies.com
   - DOMAIN-SUFFIX,a9d7c19f0282.com
   - DOMAIN-SUFFIX,a9nf3hg5c2.com
@@ -17816,6 +17882,7 @@ payload:
   - DOMAIN-SUFFIX,accompared.club
   - DOMAIN-SUFFIX,accompathych.site
   - DOMAIN-SUFFIX,accomplex.club
+  - DOMAIN-SUFFIX,accomplishmentformation.com
   - DOMAIN-SUFFIX,accordprybreathe.com
   - DOMAIN-SUFFIX,accountestatees.info
   - DOMAIN-SUFFIX,accountprotection.xyz
@@ -22812,6 +22879,7 @@ payload:
   - DOMAIN-SUFFIX,agitazio.com
   - DOMAIN-SUFFIX,agkn.com
   - DOMAIN-SUFFIX,agkxwjwutrhw.com
+  - DOMAIN-SUFFIX,aglai-tan.com
   - DOMAIN-SUFFIX,aglocobanners.com
   - DOMAIN-SUFFIX,agmtrk.com
   - DOMAIN-SUFFIX,agmx1h9wswdb.com
@@ -22955,6 +23023,7 @@ payload:
   - DOMAIN-SUFFIX,aili.com
   - DOMAIN-SUFFIX,ailiby.cn
   - DOMAIN-SUFFIX,ailicee.com
+  - DOMAIN-SUFFIX,ailingglorify.com
   - DOMAIN-SUFFIX,ailingtonwh.club
   - DOMAIN-SUFFIX,ailiyou1999.com
   - DOMAIN-SUFFIX,ailoganalyticsportal-eus.cloudapp.net
@@ -22974,6 +23043,7 @@ payload:
   - DOMAIN-SUFFIX,aimgd.com
   - DOMAIN-SUFFIX,aimiyz.com
   - DOMAIN-SUFFIX,aimrawwas.site
+  - DOMAIN-SUFFIX,aimseerg.com
   - DOMAIN-SUFFIX,aimtell.com
   - DOMAIN-SUFFIX,aimto.cn
   - DOMAIN-SUFFIX,ainedprospe.club
@@ -23384,6 +23454,7 @@ payload:
   - DOMAIN-SUFFIX,alternativhirek.blogspot.hu
   - DOMAIN-SUFFIX,althoutafrick.info
   - DOMAIN-SUFFIX,altitude-arena.com
+  - DOMAIN-SUFFIX,altowriestwispy.com
   - DOMAIN-SUFFIX,altpool.pro
   - DOMAIN-SUFFIX,altpubli.com
   - DOMAIN-SUFFIX,altrk.net
@@ -24154,6 +24225,7 @@ payload:
   - DOMAIN-SUFFIX,antiblock.info
   - DOMAIN-SUFFIX,anticalser.club
   - DOMAIN-SUFFIX,antidepressants.1.p2l.info
+  - DOMAIN-SUFFIX,antidotefoepersecution.com
   - DOMAIN-SUFFIX,antispywareexpert.com
   - DOMAIN-SUFFIX,antiterroristqueenjolly.com
   - DOMAIN-SUFFIX,antivirus-message.com
@@ -29968,6 +30040,7 @@ payload:
   - DOMAIN-SUFFIX,cef9c80977e050.com
   - DOMAIN-SUFFIX,ceg.g5e.com
   - DOMAIN-SUFFIX,cegludse.net
+  - DOMAIN-SUFFIX,cehappear.fun
   - DOMAIN-SUFFIX,cehiswasreb.ru
   - DOMAIN-SUFFIX,cehuiy.com
   - DOMAIN-SUFFIX,ceincreatedaughtcha.info
@@ -32768,6 +32841,7 @@ payload:
   - DOMAIN-SUFFIX,creative.stripchat.com
   - DOMAIN-SUFFIX,creative.strpjmp.com
   - DOMAIN-SUFFIX,creativecdn.com
+  - DOMAIN-SUFFIX,creativedisplayformat.com
   - DOMAIN-SUFFIX,creatives.cliphunter.com
   - DOMAIN-SUFFIX,creatives.crossinstall.com
   - DOMAIN-SUFFIX,creatives.crossinstall.io
@@ -33766,6 +33840,7 @@ payload:
   - DOMAIN-SUFFIX,d4q8zgf756.com
   - DOMAIN-SUFFIX,d5.sina.com.cn
   - DOMAIN-SUFFIX,d5.sinaimg.cn
+  - DOMAIN-SUFFIX,d533eecf3a7.com
   - DOMAIN-SUFFIX,d58bf31082fa97.com
   - DOMAIN-SUFFIX,d59fa492f75f520.com
   - DOMAIN-SUFFIX,d5a5a.xyz
@@ -35120,6 +35195,7 @@ payload:
   - DOMAIN-SUFFIX,disloyalmeddling.com
   - DOMAIN-SUFFIX,disloyalstrapunderstatement.com
   - DOMAIN-SUFFIX,disobeystewhit.com
+  - DOMAIN-SUFFIX,disorderpoking.com
   - DOMAIN-SUFFIX,disp-x.space
   - DOMAIN-SUFFIX,disparagethence.com
   - DOMAIN-SUFFIX,disparitypuppetfestivity.com
@@ -38524,6 +38600,7 @@ payload:
   - DOMAIN-SUFFIX,f853150605ccb.com
   - DOMAIN-SUFFIX,f87b88d3649456.com
   - DOMAIN-SUFFIX,f92j5.com
+  - DOMAIN-SUFFIX,f97f1e91da5e2.com
   - DOMAIN-SUFFIX,fa.163.com
   - DOMAIN-SUFFIX,fa.corp.163.com
   - DOMAIN-SUFFIX,fa.fpt.shop
@@ -41584,6 +41661,7 @@ payload:
   - DOMAIN-SUFFIX,glojune.biz
   - DOMAIN-SUFFIX,glokta.info
   - DOMAIN-SUFFIX,glomseci.com
+  - DOMAIN-SUFFIX,gloodsie.com
   - DOMAIN-SUFFIX,glookalr.com
   - DOMAIN-SUFFIX,glookroz.net
   - DOMAIN-SUFFIX,glooliso.net
@@ -41638,6 +41716,7 @@ payload:
   - DOMAIN-SUFFIX,gmdsyfvwmqitz.com
   - DOMAIN-SUFFIX,gmeng.625323.com
   - DOMAIN-SUFFIX,gml.email
+  - DOMAIN-SUFFIX,gmnzaneslia.com
   - DOMAIN-SUFFIX,gmodmp.jp
   - DOMAIN-SUFFIX,gmonitor.aliimg.com
   - DOMAIN-SUFFIX,gmoshk.com
@@ -42062,6 +42141,7 @@ payload:
   - DOMAIN-SUFFIX,grainstucked.com
   - DOMAIN-SUFFIX,graintown.cn
   - DOMAIN-SUFFIX,grairgos.net
+  - DOMAIN-SUFFIX,grairsoa.com
   - DOMAIN-SUFFIX,graivaik.com
   - DOMAIN-SUFFIX,graizoah.com
   - DOMAIN-SUFFIX,gralfusnzpo003.top
@@ -42871,6 +42951,7 @@ payload:
   - DOMAIN-SUFFIX,haucgz.europa-lkw.de
   - DOMAIN-SUFFIX,hauchi.com.tw
   - DOMAIN-SUFFIX,hauglees.net
+  - DOMAIN-SUFFIX,haulrationally.com
   - DOMAIN-SUFFIX,haunigre.net
   - DOMAIN-SUFFIX,hauphaun.net
   - DOMAIN-SUFFIX,haupsoti.net
@@ -43346,6 +43427,7 @@ payload:
   - DOMAIN-SUFFIX,highnessbackwardsyuri.com
   - DOMAIN-SUFFIX,highnesssexuallyferment.com
   - DOMAIN-SUFFIX,highnets.com
+  - DOMAIN-SUFFIX,highperformancecpmnetwork.com
   - DOMAIN-SUFFIX,highprofitnetwork.com
   - DOMAIN-SUFFIX,highrevenuecpm.com
   - DOMAIN-SUFFIX,highscanprotect.com
@@ -44258,6 +44340,7 @@ payload:
   - DOMAIN-SUFFIX,hurra.com
   - DOMAIN-SUFFIX,hurricanedigitalmedia.com
   - DOMAIN-SUFFIX,hurricaneprotection.com
+  - DOMAIN-SUFFIX,hurtfulindelicate.com
   - DOMAIN-SUFFIX,hurtgrape.com
   - DOMAIN-SUFFIX,hurtteeth.com
   - DOMAIN-SUFFIX,husbandbazaar.com
@@ -47510,6 +47593,7 @@ payload:
   - DOMAIN-SUFFIX,justiceintegral.com
   - DOMAIN-SUFFIX,justicejudo.com
   - DOMAIN-SUFFIX,justickedukil.club
+  - DOMAIN-SUFFIX,justifyillogical.com
   - DOMAIN-SUFFIX,justincao84.cn
   - DOMAIN-SUFFIX,justinpressed.com
   - DOMAIN-SUFFIX,justintvizletir.tv
@@ -48021,6 +48105,7 @@ payload:
   - DOMAIN-SUFFIX,kh2134.com
   - DOMAIN-SUFFIX,khalto.info
   - DOMAIN-SUFFIX,khandragthresh.com
+  - DOMAIN-SUFFIX,khdfmb.vip
   - DOMAIN-SUFFIX,khermesi.ru
   - DOMAIN-SUFFIX,khesino.ru
   - DOMAIN-SUFFIX,khewwakrywmgxr.com
@@ -53098,6 +53183,7 @@ payload:
   - DOMAIN-SUFFIX,mg.games.sina.com.cn
   - DOMAIN-SUFFIX,mg.glwxw.net
   - DOMAIN-SUFFIX,mg09.zhaopin.com
+  - DOMAIN-SUFFIX,mg0b68.vip
   - DOMAIN-SUFFIX,mg17i.cn
   - DOMAIN-SUFFIX,mg2connext.com
   - DOMAIN-SUFFIX,mgage.com
@@ -55724,6 +55810,7 @@ payload:
   - DOMAIN-SUFFIX,niazlhvok.com
   - DOMAIN-SUFFIX,nibagsukpgndj.com
   - DOMAIN-SUFFIX,nibzitgas.com
+  - DOMAIN-SUFFIX,nicanor-the.com
   - DOMAIN-SUFFIX,nicappazaza.com
   - DOMAIN-SUFFIX,nice.kuaizq.com
   - DOMAIN-SUFFIX,nice3aiea.com
@@ -58524,6 +58611,7 @@ payload:
   - DOMAIN-SUFFIX,paleleaf.com
   - DOMAIN-SUFFIX,paleseyi.ru
   - DOMAIN-SUFFIX,palibs.tech
+  - DOMAIN-SUFFIX,pallxylophone.xyz
   - DOMAIN-SUFFIX,palm-ad.cn
   - DOMAIN-SUFFIX,palmnews.sina.cn
   - DOMAIN-SUFFIX,palundrus.com
@@ -60141,6 +60229,7 @@ payload:
   - DOMAIN-SUFFIX,poole-collector-prod.bnsqc3zmvt.us-east-1.elasticbeanstalk.com
   - DOMAIN-SUFFIX,poolgmsd.com
   - DOMAIN-SUFFIX,poolmining.eu
+  - DOMAIN-SUFFIX,poolunbelievably.com
   - DOMAIN-SUFFIX,poonproscash.com
   - DOMAIN-SUFFIX,poonstwifterspick.work
   - DOMAIN-SUFFIX,poor5zero.com
@@ -61125,6 +61214,7 @@ payload:
   - DOMAIN-SUFFIX,pstmrk.it
   - DOMAIN-SUFFIX,psughooy.com
   - DOMAIN-SUFFIX,psulsobi.net
+  - DOMAIN-SUFFIX,psuphuns.net
   - DOMAIN-SUFFIX,psurdoak.com
   - DOMAIN-SUFFIX,psvgnczo.com
   - DOMAIN-SUFFIX,psychologicaltotalnumeric.com
@@ -68233,6 +68323,7 @@ payload:
   - DOMAIN-SUFFIX,soagitet.net
   - DOMAIN-SUFFIX,soagrist.net
   - DOMAIN-SUFFIX,soagw.pw.xunlei.com
+  - DOMAIN-SUFFIX,soalonie.com
   - DOMAIN-SUFFIX,soalouve.com
   - DOMAIN-SUFFIX,soap-wash.com
   - DOMAIN-SUFFIX,soapproceeding.com
@@ -68739,6 +68830,7 @@ payload:
   - DOMAIN-SUFFIX,sparc.nour.net.sa
   - DOMAIN-SUFFIX,sparechange.io
   - DOMAIN-SUFFIX,spareddepressing.com
+  - DOMAIN-SUFFIX,sparedpoetintroduce.com
   - DOMAIN-SUFFIX,sparedshabbylaugh.com
   - DOMAIN-SUFFIX,sparelli.com
   - DOMAIN-SUFFIX,spareton.online
@@ -70577,6 +70669,7 @@ payload:
   - DOMAIN-SUFFIX,suecubrearrange.com
   - DOMAIN-SUFFIX,suedai.com
   - DOMAIN-SUFFIX,suedespadecomparatively.com
+  - DOMAIN-SUFFIX,sueencumberpiggy.com
   - DOMAIN-SUFFIX,suehy.com
   - DOMAIN-SUFFIX,sufferench.club
   - DOMAIN-SUFFIX,sufficient.cn
@@ -71349,6 +71442,7 @@ payload:
   - DOMAIN-SUFFIX,t.xiumii.top
   - DOMAIN-SUFFIX,t.xtubetv.net
   - DOMAIN-SUFFIX,t.yesware.com
+  - DOMAIN-SUFFIX,t0gkj99krb24.com
   - DOMAIN-SUFFIX,t0p0ff3rs.com
   - DOMAIN-SUFFIX,t1.58cdn.com.cn
   - DOMAIN-SUFFIX,t1.baidu.com
@@ -72381,6 +72475,7 @@ payload:
   - DOMAIN-SUFFIX,thepiratebay.is
   - DOMAIN-SUFFIX,thepiratebay.wtf
   - DOMAIN-SUFFIX,thepiratetrader.com
+  - DOMAIN-SUFFIX,theplayadvisor.com
   - DOMAIN-SUFFIX,thepornsurvey.com
   - DOMAIN-SUFFIX,thepounder.com
   - DOMAIN-SUFFIX,therapistla.com
@@ -73187,6 +73282,7 @@ payload:
   - DOMAIN-SUFFIX,topmalaysia.com
   - DOMAIN-SUFFIX,topmarketcenter.com
   - DOMAIN-SUFFIX,topmeds10.com
+  - DOMAIN-SUFFIX,topmosthospitable.com
   - DOMAIN-SUFFIX,topofblogs.com
   - DOMAIN-SUFFIX,toppage.vn
   - DOMAIN-SUFFIX,topperformance.xyz
@@ -74721,6 +74817,7 @@ payload:
   - DOMAIN-SUFFIX,tridentenvironmental.co.uk
   - DOMAIN-SUFFIX,trido.club
   - DOMAIN-SUFFIX,triflelatch.com
+  - DOMAIN-SUFFIX,triflingbluffybluffy.com
   - DOMAIN-SUFFIX,trigami.com
   - DOMAIN-SUFFIX,triggeredmail.appspot.com
   - DOMAIN-SUFFIX,triggeredmessaging.com
@@ -75005,6 +75102,7 @@ payload:
   - DOMAIN-SUFFIX,ttlmodels.com
   - DOMAIN-SUFFIX,ttlowe.com
   - DOMAIN-SUFFIX,ttnet.yandex.com.tr
+  - DOMAIN-SUFFIX,ttnrd.com
   - DOMAIN-SUFFIX,ttoc8ok.com
   - DOMAIN-SUFFIX,ttoyourteam.biz
   - DOMAIN-SUFFIX,ttplugins.ttpsdk.info
@@ -75784,6 +75882,7 @@ payload:
   - DOMAIN-SUFFIX,unaspajas.com
   - DOMAIN-SUFFIX,unbecominghall.com
   - DOMAIN-SUFFIX,unblockedtpb.pw
+  - DOMAIN-SUFFIX,unblockia.com
   - DOMAIN-SUFFIX,unblocktheship.org
   - DOMAIN-SUFFIX,uncessoryel.info
   - DOMAIN-SUFFIX,uncilsdegr.club

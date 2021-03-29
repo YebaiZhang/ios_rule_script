@@ -1,11 +1,11 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-29 02:28:28.945629
+# UPDATED: 2021-03-30 02:22:56.413789
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
+# DOMAIN: 43
 # DOMAIN-SUFFIX: 28920
 # USER-AGENT: 49
-# DOMAIN: 43
 # DOMAIN-KEYWORD: 42
 # IP-CIDR: 127
 # IP-CIDR6: 3

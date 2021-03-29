@@ -1,7 +1,7 @@
 # NAME: Huffpost
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-29 02:28:34.899075
+# UPDATED: 2021-03-30 02:23:01.579532
 # DOMAIN-SUFFIX: 18
 # TOTAL: 18
 DOMAIN-SUFFIX,huffingtonpost.ca
